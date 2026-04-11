@@ -567,8 +567,3 @@ a{
 /* ===footer=== */
 
 
-.navigation__bar-addition{
-    display: flex;
-    flex-direction: column;
-    /* flex-shrink: shrink; */
-}
